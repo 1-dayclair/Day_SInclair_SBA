@@ -1,0 +1,16 @@
+table{
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    border: 3px dashed black;
+}
+th, td{
+    border: 2px dashed darkslategrey;
+}
+.communication{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: yellowgreen;
+}

@@ -1,0 +1,76 @@
+.navigation{
+    display: flex;
+}
+.toggle{
+    display: flex;
+    list-style-type: none;
+    border: 2px dashed black;
+    background-color: khaki;
+    width: 100%;
+}
+#games{
+    border-right: 2px dashed black;
+}
+#games:hover{
+    background-color: powderblue;
+}
+#robots{
+    border-right: 2px dashed black;
+}
+#robots:hover{
+    background-color: powderblue;
+}
+#location{ 
+    border-right: 2px dashed black;
+}
+#location:hover{
+    background-color: powderblue;
+}
+#system{
+    border-right: 2px dashed black;
+}
+#system:hover{
+    background-color: powderblue;
+}
+#watch{
+    margin-left: auto;
+    border-right: 2px dashed black;
+}
+#watch:hover{
+    background-color: powderblue;
+}
+#serious:hover{
+    background-color: powderblue;
+}
+
+.opera{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+#movie-one{
+    background-color: yellow;
+}
+#movie-two{
+    background-color: lightsteelblue;
+}
+#movie-three{
+    background-color: darkslategrey;
+}
+#movie-four{
+    background-color: brown;
+}
+.poetry{
+    display: flex;
+    /* justify-content: center; */
+    background-color: steelblue; 
+}
+.language{
+    display: flex;
+    justify-content: center;
+}
+.one-language{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,56 @@
+.house{
+    display: flex;
+}
+.castle{
+    display: flex;
+    list-style-type: none;
+    border: 2px dashed slategrey;
+    background-color: khaki;
+    width: 100%;
+}
+#watch{
+    margin-left: auto;
+    border-right: 2px dashed black;
+}
+#games:hover{
+    background-color: thistle;
+}
+#games{
+    border-right: 2px dashed black;
+}
+#system:hover{
+    background-color: thistle;
+}
+#system{
+    border-right: 2px dashed black;
+}
+#robots:hover{
+    background-color: thistle;
+}
+#robots{
+    border-right: 2px dashed black;
+}
+#location:hover{
+    background-color: thistle;
+}
+#location{
+    border-right: 2px dashed black;
+}
+#Home:hover{ 
+    background-color: green;
+}
+#watch:hover{
+    background-color: thistle;
+}
+#serious:hover{
+    background-color: thistle;
+}
+.start{
+    display: flex;
+    justify-content: center;
+    border: 2px solid crimson;
+    background-color: darkslategrey
+}
+body{
+    background-color: black;
+}
